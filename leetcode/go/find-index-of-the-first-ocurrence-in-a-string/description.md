@@ -28,6 +28,6 @@ Constraints:
 
 ### STC
 
-> Space: O(1)
+> Space: O(n)
 
 > Time: O(n)
