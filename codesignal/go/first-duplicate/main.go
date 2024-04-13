@@ -3,15 +3,15 @@
 */
 
 func solution(a []int) int {
-    kvMap := map[int]int{}
-    
-    for _, num := range a {
-       if _, ok := kvMap[num]; ok {
-            return num
-        }
-        
-        kvMap[num] = 1
-    }
-     
-    return -1
+	kvMap := map[int]int{}
+
+	for _, num := range a {
+		if _, ok := kvMap[num]; ok {
+			return num
+		}
+
+		kvMap[num] = 1
+	}
+
+	return -1
 }
