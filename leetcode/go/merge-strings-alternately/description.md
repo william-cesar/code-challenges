@@ -45,5 +45,3 @@ word1 and word2 consist of lowercase English letters.
 > Space: O(1)
 
 > Time: O(n)
-
-![merge_strings_alternately](https://github.com/william-cesar/code-challenges/assets/67482520/d592fdf4-bb2e-432a-b2af-329e23955ce1)
