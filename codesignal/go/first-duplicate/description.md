@@ -20,9 +20,7 @@ Input/Output
 
 [input] array.integer a
 
-Guaranteed constraints:
-1 ≤ a.length ≤ 105,
-1 ≤ a[i] ≤ a.length.
+Guaranteed constraints: 1 ≤ a.length ≤ 105, 1 ≤ a[i] ≤ a.length.
 
 [output] integer
 
@@ -30,6 +28,6 @@ The element in a that occurs in the array more than once and has the minimal ind
 
 ### STC
 
-> Time: O(1)
+> Space: O(1)
 
-> Space: (O)n  
+> Time: O(n)
