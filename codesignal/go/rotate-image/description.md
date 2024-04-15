@@ -6,7 +6,7 @@ You are given an n x n 2D matrix that represents an image. Rotate the image by 9
 
 > Example
 
-For
+- For
 
 ```
 a = [
@@ -38,7 +38,7 @@ Guaranteed constraints:
 
 - 1 ≤ a.length ≤ 100,
 - a[i].length = a.length,
-- 1 ≤ a[i][j] ≤ 104.
+- 1 ≤ a[i][j] ≤ 10^4.
 
 [output] array.array.integer
 

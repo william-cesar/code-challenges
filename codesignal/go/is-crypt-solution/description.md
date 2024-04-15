@@ -10,7 +10,7 @@ Note that number 0 doesn't contain leading zeroes (while for example 00 or 0123 
 
 > Example
 
-For `crypt = ["SEND", "MORE", "MONEY"]` and
+- For `crypt = ["SEND", "MORE", "MONEY"]` and
 
 ```
 solution = [
@@ -29,7 +29,7 @@ the output should be solution(crypt, solution) = true.
 
 When you decrypt "SEND", "MORE", and "MONEY" using the mapping given in crypt, you get 9567 + 1085 = 10652 which is correct and a valid arithmetic equation.
 
-For `crypt = ["TEN", "TWO", "ONE"]` and
+- For `crypt = ["TEN", "TWO", "ONE"]` and
 
 ```
 solution = [
